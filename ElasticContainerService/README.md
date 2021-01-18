@@ -18,7 +18,7 @@ Note that using a CloudFormation service is free, but you are paying for the res
 
 Here, new resources are going to be created:
 
-![create_stack](https://user-images.githubusercontent.com/23483887/104905300-10f05480-597a-11eb-9fa1-1610104a79c6.png)
+<img width="600" height=200 alt="CloudFormation-parameters" src="https://user-images.githubusercontent.com/23483887/104905300-10f05480-597a-11eb-9fa1-1610104a79c6.png">
 
 And since templates are already provided, they can be uploaded from a computer location:
 
